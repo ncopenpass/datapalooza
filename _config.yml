@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "NC Open Pass DataPalooza"
 email: "info@ncopenpass.com"
 description: "Sponsored by NC Data4Good and NC OpenPass"
-baseurl: "/datapalooza-website"
+baseurl: "/datapalooza"
 url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
